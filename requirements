@@ -1,0 +1,13 @@
+
+
+Project: Geometric Shape Drawing Program
+
+Requirements:
+
+The program should ask the user for the type of geometric shape they wish to draw (e.g., circle, square, or rectangle).
+
+Based on the input received from the user, the relevant shape should be drawn.
+
+The program should be extensible, meaning that when new shapes are added, it should not require major changes to the existing code.
+
+The program should use the same draw() method to draw different shapes, but this method should produce different outputs for different shapes.
